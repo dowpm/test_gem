@@ -1,7 +1,9 @@
 #!/usr/bin/env ruby
-require 'bundler'
+
 require "bundler/setup"
 
 require "test_gem"
 
 puts 'hello'
+
+# binding.pry
